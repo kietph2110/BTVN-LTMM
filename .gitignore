@@ -218,3 +218,8 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+HUONG_DAN_NOP_BAI.md
+__pycache__/
+*.pyc
+.claude/
